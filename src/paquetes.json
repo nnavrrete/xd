@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "name": "Adventure in the Mountains",
+      "destination": "Rocky Mountains, USA",
+      "price": 1200,
+      "description": "Experience the thrill of hiking and camping in the breathtaking Rocky Mountains."
+    },
+    {
+      "id": 2,
+      "name": "Relaxing Beach Getaway",
+      "destination": "Tropical Paradise Island",
+      "price": 1800,
+      "description": "Unwind and enjoy the sun, sand, and sea on a beautiful tropical island."
+    },
+    {
+      "id": 3,
+      "name": "City Explorer",
+      "destination": "Historic European City",
+      "price": 1500,
+      "description": "Immerse yourself in the rich history and culture of a charming European city."
+    },
+    {
+      "id": 4,
+      "name": "Safari Adventure",
+      "destination": "Serengeti National Park, Tanzania",
+      "price": 2500,
+      "description": "Witness the incredible wildlife on a thrilling safari in the heart of Africa."
+    },
+    {
+      "id": 5,
+      "name": "Cruise to Paradise",
+      "destination": "Caribbean Islands",
+      "price": 2200,
+      "description": "Sail the crystal-clear waters of the Caribbean and explore vibrant tropical islands."
+    },
+    {
+      "id": 6,
+      "name": "Historical Asia Tour",
+      "destination": "Beijing, Tokyo, Bangkok",
+      "price": 2800,
+      "description": "Embark on a journey through the rich history and diverse cultures of Asia."
+    },
+    {
+      "id": 7,
+      "name": "Mystical Middle East",
+      "destination": "Dubai, Cairo, Istanbul",
+      "price": 3200,
+      "description": "Explore the enchanting landscapes and ancient wonders of the Middle East."
+    },
+    {
+      "id": 8,
+      "name": "Tropical Rainforest Expedition",
+      "destination": "Amazon Rainforest, Brazil",
+      "price": 2000,
+      "description": "Discover the biodiversity of the Amazon rainforest on an unforgettable expedition."
+    },
+    {
+      "id": 9,
+      "name": "Alpine Ski Retreat",
+      "destination": "Swiss Alps",
+      "price": 1800,
+      "description": "Hit the slopes and enjoy the winter wonderland of the Swiss Alps."
+    },
+    {
+      "id": 10,
+      "name": "Island Hopping in Greece",
+      "destination": "Greek Islands",
+      "price": 2100,
+      "description": "Experience the beauty of the Aegean Sea by hopping between stunning Greek islands."
+    }
+  ]
